@@ -1,1 +1,2 @@
-test message
+test message - changes made in "new_branch"
+new line
